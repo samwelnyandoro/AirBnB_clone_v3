@@ -7,7 +7,7 @@ Foundations > Higher-level programming > AirBnB clone
 Guillaume Salva
 
 ### Assignment dates
-10-26-20203 to 10-31-2023
+10-26-2023 to 10-31-2023
 
 ### Description
 Building the third iteration of a website cloning the basic features of the [`airbnb.com` main page, circa 2014-2017](https://web.archive.org/web/20170206112507/https://www.airbnb.com/).
@@ -18,7 +18,7 @@ Using Flask in Python to create an API that can query the storage engine and ser
 
 ### Python
 * Interpreter conditions:
-  * Ubuntu 20.04 LTS
+  * Ubuntu 14.04 LTS
   * python3 (version 3.4.3)
 * First line of executable scripts will be `#!/usr/bin/python3`
 * Compliance with linter:
